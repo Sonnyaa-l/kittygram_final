@@ -1,6 +1,4 @@
-taski:
-domain: taski.example.com
-ip: 192.168.0.1
-kittygram:
-domain: kittygram.example.com
-ip: 192.168.0.2
+repo_owner: Sonnyaa-l
+dockerhub_username: SonyaLapteva123
+taski_domain: https://taski.example.com
+kittygram_domain: https://kittygram.example.com
